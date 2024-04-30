@@ -1,6 +1,7 @@
 # Career Guidance Cell (CGC) Website - IIIT Dharwad
 
 This repository contains the source code and documentation for the Career Guidance Cell (CGC) website of the Indian Institute of Information Technology Dharwad (IIIT Dharwad).
+Figma File: https://www.figma.com/file/g0aXA3oklHvsgKeH3F92Jo/CGC---Page?type=design&node-id=0%3A1&mode=design&t=OKsvlPZRgovRtjFq-1
 
 ## About the Project
 
